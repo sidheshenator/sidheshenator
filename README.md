@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, visitor # <img src="https://profile-counter.glitch.me/sidheshenator/count.svg" />
 
 I am Sid and I work as an **Security Engineer at Microsoft**.
 I am passionate about **information security**. You can reach me on LinkedIn here - [LinkedIn Profile](https://www.linkedin.com/in/sidheshmhatre/)
