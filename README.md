@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Sid and I work as an engineer at Microsoft.
+
+I am passionate about information security. You can reach me on LinkedIn here - [LinkedIn Profile](https://www.linkedin.com/in/sidheshmhatre/)
+
+
 <!--
 **sidheshenator/sidheshenator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
