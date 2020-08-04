@@ -5,17 +5,17 @@ I am passionate about information security. You can reach me on LinkedIn here - 
 
 
 
-* Here's what I do -
+* **Here's what I do -**
 As a Security Engineer at Microsoft, I focus on application security - threat modeling, risk assessments, security automation.
 
 
 
-* Here's what I used to do -
+* **Here's what I used to do -**
 As an engineer at small to large size companies, I focused on network security, digital forensic, and auditing.
 
 
 
-* Here's what I studied -
+* **Here's what I studied -**
 I studied Information Assurance at Northeastern University, Boston.
 Before that, I studied Computer Engineering at University of Mumbai.
 
