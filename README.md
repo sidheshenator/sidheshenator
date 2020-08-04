@@ -11,7 +11,7 @@ As a Security Engineer at Microsoft, I focus on application security - threat mo
 
 
 * **Here's what I used to do -**
-As an engineer at small to large size companies, I focused on network security, digital forensic, and auditing.
+As an engineer at small to large size companies, I used to focus on network security, digital forensic, and auditing.
 
 
 
